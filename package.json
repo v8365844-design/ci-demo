@@ -1,13 +1,11 @@
 {
   "name": "ci-demo-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jenkins CI Demo Project",
   "main": "index.js",
-  ""scripts": {
-  "test": "node test.js"
-}
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Vivek Shah",
+  "license": "ISC"
 }
